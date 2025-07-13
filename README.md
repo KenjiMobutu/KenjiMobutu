@@ -13,10 +13,9 @@ Recently graduated full-stack developer with solid experience in web and softwar
 
 <a href="http://www.github.com/KenjiMobutu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KenjiMobutu&stroke=ffffff&background=312e81&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenjiMobutu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenjiMobutu&layout=compact)]()
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KenjiMobutu&repo=kenomi-app)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KenjiMobutu&repo=kenomi-app)]()
 ### Skills
 
 <p align="left">
