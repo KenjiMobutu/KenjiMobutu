@@ -1,7 +1,7 @@
 Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Kenji Mobutu!
 ====================================================================================================================================
 
-Full-stack Dev - Pentesting Rookie
+Full-stack Dev - Software engineer
 ----------------------------------
 
 Recently graduated full-stack developer with solid experience in web and software application development. Passionate about technologies such as Angular, React, PHP, C#, and Java, I have participated in various collaborative projects, notably in database management and video game creation. Currently, I am enhancing my skills by learning pentesting to strengthen my knowledge in computer security.
