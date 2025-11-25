@@ -3,12 +3,15 @@ Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-078
 
 Full-stack Dev - Software engineer
 ----------------------------------
-
-Recently graduated full-stack developer with solid experience in web and software application development. Passionate about technologies such as Angular, React, PHP, C#, and Java, I have participated in various collaborative projects, notably in database management and video game creation. Currently, I am enhancing my skills by learning pentesting to strengthen my knowledge in computer security.
+🚀 Building robust web applications with Next.js, TypeScript & React | 🔓 Open to opportunities
+ ## 🔥 Featured Projects
+   - 🏦 [KENOMI](lien) - SaaS Crowdfunding Platform (Next.js 14, Stripe, Playwright)
+   - 📱 [Resto Manager](lien) - Mobile Restaurant Management (React Native)
+   - ⚖️ [Legal Gen](lien) - GDPR Document Generator (Next.js, AI)
 
 * 🌍  I'm based in Brussels
 * ✉️  You can contact me at [kenjimobutu@gmail.com](mailto:kenjimobutu@gmail.com)
-* 🚀  I'm currently working on [Kenomi](http://kenomi.eu)
+* 🚀  I'm currently working on [Kenomi](https://www.kenomi.eu)
 * 🧠  I'm learning Cybersecurity
 
 <a href="http://www.github.com/KenjiMobutu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KenjiMobutu&stroke=ffffff&background=312e81&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
