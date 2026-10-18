@@ -78,7 +78,7 @@ Générateur de documents RGPD automatisé
 
 ## 📊 Stats GitHub
 
-<a href="http://www.github.com/KenjiMobutu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KenjiMobutu&stroke=ffffff&background=312e81&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://www.github.com/KenjiMobutu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KenjiMobutu&stroke=ffffff&background=312e81&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenjiMobutu&layout=compact&theme=tokyonight)](https://github.com/KenjiMobutu)
 
